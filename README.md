@@ -1,9 +1,9 @@
 # Lic-Lab
-lic 
-                                      Differential Amplifier with Resistor RSS
+## lic 
+##                                      Differential Amplifier with Resistor RSS
 
 
-Analysis
+**Analysis**
 
 The differential amplifier is designed with these values:
 
